@@ -57,4 +57,5 @@ Validation report
 ![validation](/images/Validation.png)
 
 ## Result:
-Write your result
+
+  Thus, a website to display places around me in the form of imagemaps was successfully created.
