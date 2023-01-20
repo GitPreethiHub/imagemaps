@@ -52,8 +52,9 @@ To develop a website to display details about the places around my house.
 ![Saveethawaterpark](/images/Saveethawaterpark.png)
 ![SaveethaArchitecture](/images/SaveethaArchitecture.png)
 
-validation report
-![validation](/images/validation.png)
+Validation report
+
+![validation](/images/Validation.png)
 
 ## Result:
 Write your result
